@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[slt:home|Door43 (slt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-slt|d43-slt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-slt/archive/master.zip|d43-slt.zip]]
+
+**Recent Changes**
+{{changes>ns = slt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/slt|Ethnologue data]]
+
